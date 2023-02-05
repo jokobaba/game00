@@ -1,7 +1,7 @@
  
 
 
-> 在 [https://jokobaba.github.io/game01/](https://jokobaba.github.io/game00/) 打開此頁面
+> 在 [https://jokobaba.github.io/game00/](https://jokobaba.github.io/game00/) 打開此頁面
 
 ## 作為擴充功能使用
 
